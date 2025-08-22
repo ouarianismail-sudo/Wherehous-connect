@@ -1,0 +1,5 @@
+{
+  "name": "WMS",
+  "description": "A dashboard UI for managing warehouse inventory, clients, and stock movements.",
+  "requestFramePermissions": []
+}
